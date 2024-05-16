@@ -1,5 +1,5 @@
 # Public-Showcase
-C:\Users\Jacob\Downloads\furniture_reformer (1).png
+![furniture_reformer]C:\Users\Jacob\Downloads\furniture_reformer (1).png
 # Furniture Reformers
 
 Furniture Reformers is an all in one application with the objective of getting used Furniture off the streets and into the hands of people who need it. 
