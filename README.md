@@ -1,5 +1,5 @@
 # Public-Showcase
-![furniture_reformer](https://github.com/jacobmadsen/Furniture-Reformers/assets/121737700/50e6e313-21b0-4e02-8a96-a9d6f6405c3f)
+C:\Users\Jacob\Downloads\furniture_reformer (1).png
 # Furniture Reformers
 
 Furniture Reformers is an all in one application with the objective of getting used Furniture off the streets and into the hands of people who need it. 
