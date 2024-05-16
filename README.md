@@ -1,5 +1,5 @@
 # Public-Showcase
-![furniture_reformer]https://github.com/Jrm55/Public-Showcase/blob/main/furniture_reformer%20(1).png
+![furniture_reformer](https://github.com/Jrm55/Public-Showcase/blob/main/furniture_reformer%20(1).png)
 # Furniture Reformers
 
 Furniture Reformers is an all in one application with the objective of getting used Furniture off the streets and into the hands of people who need it. 
